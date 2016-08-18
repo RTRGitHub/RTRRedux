@@ -2,4 +2,6 @@ If you are posting error logs **please** use [pastebin](http://pastebin.com/) an
 
 Otherwise, please be respectful. 
 
+***
+
 Thanks!
