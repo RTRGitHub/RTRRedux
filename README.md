@@ -2,7 +2,7 @@
 
 This is a simple way for us to track issues!
 
-Click the Issues label or click this [link](https://github.com/RTRGitHub/RTRRedux/issues) to start submitting an issue if you have one!
+Click the Issues label or click this [link](https://github.com/RTRGitHub/RTRRedux/issues) to start submitting an issue if you have one.
 
 ***
 
@@ -10,6 +10,6 @@ If you are posting error logs **please** use [pastebin](http://pastebin.com/) an
 
 ***
 
-Please be respectful and give us some time to fix issues as we are busy all the time!
+Please be respectful and give us some time to fix issues as we are busy all the time.
 
 Thank you for visiting our issue tracker :)
